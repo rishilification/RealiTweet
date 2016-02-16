@@ -18,3 +18,5 @@ access_token_secret='...............'*, with the actual values for your applicat
 ##Note:
 1. Information obtained in *http://www.text-analytics101.com/2014/10/all-about-stop-words-for-text-mining.html* has been used to determine stop-words.
 2. *http://www.aiaioo.com* Intention API has been used for determinig user intent (it's open-source :p)!
+
+**Outputs** a json file of the form *{'coordinates':COORDINATES,'WordCount':INTEGER,'tweet':STRING,Sentiment':INTEGER,'Intent':STRING}* 
