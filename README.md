@@ -7,8 +7,7 @@
 consumer_secret='..................'
 access_token='.............'
 access_token_secret='...............'*, with the actual values for your application.
-
-&nbsp;And replace **(track=["...."])** *-in line 42 of TweetStream*  with the actual keyword to filter the stream with.
+2. And replace **(track=["...."])** *-in line 42 of TweetStream*  with the actual keyword to filter the stream with.
 
 ##Necessary installs:
 1. tweepy
